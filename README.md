@@ -1,5 +1,5 @@
 <h1 align="center"> <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hi,+There!+👋;I+'+m+Chirayu!+🧑‍💻&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hi,+There!+👋;I+'m+Chirayu!+🧑‍💻&center=true&size=30">
   </a></h1>
 <h3 align="center">A passionate frontend developer from India🇮🇳</h3>
 

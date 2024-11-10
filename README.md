@@ -1,38 +1,146 @@
-<h1 align="center"> <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hi,+There!+👋;I'm+Chirayu!+🧑‍💻&center=true&size=30">
-  </a></h1>
-<h3 align="center">A passionate frontend developer from India🇮🇳</h3>
+<h2>Hey, I am Chirayu Maru, a Full-Stack Developer</h2>
+<p><em>Pursuing Bachelors @<a href="https://vit.ac.in/">VIT Vellore
+</em></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirayu2107&label=Profile%20views&color=0e75b6&style=flat" alt="chirayu2107" /> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=chirayumaru)](https://x.com/chirayumaru)
+[![Linkedin: chirayu](https://img.shields.io/badge/-chirayu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirayumaru/)](https://www.linkedin.com/in/chirayumaru/)
+![GitHub followers](https://img.shields.io/github/followers/chirayu2107?label=Follow&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=chirayu2107&color=brightgreen&base=1600)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirayu2107" alt="chirayu2107" /></a> </p>
+<h1 align="center"> 🧑‍💻 About Me</h1>
+ 
+ I'm looking for a **Junior Developer/Software Engineer Position** to get hands-on experience working in an agile team environment
 
-<p align="left"> <a href="https://twitter.com/chirayumaru7" target="blank"><img src="https://img.shields.io/twitter/follow/chirayumaru7?logo=twitter&style=for-the-badge" alt="chirayumaru7" /></a> </p>
+📫 Reach me at : **chirayumaru@gmail.com**
 
-- 🔭 I’m currently working on [Banking Transaction Platform](https://github.com/chirayu2107/horizon)
+<h1 align="center">SKILLS</h1>
 
-- 🌱 I’m currently learning **React js**
-
-- 💬 Ask me about **Java React.Js**
-
-- 📫 How to reach me **chirayumaru@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jHmZ6_40U1tA8BYXFl6wFDKe0Nth3sqE/view?usp=drive_link](https://drive.google.com/file/d/1jHmZ6_40U1tA8BYXFl6wFDKe0Nth3sqE/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I am funny enough to break the ice in any situation**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chirayumaru7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chirayumaru7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chirayumaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirayumaru" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chirayu_10_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirayu_10_" height="30" width="40" /></a>
+<p align="center"><strong>Coding Languages</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=java,javascript,c,cpp,typescript,css,html&theme=dark">
+    <img src="https://skillicons.dev/icons?i=java,javascript,c,cpp,typescript,css,html&theme=dark" alt="Coding Languages">
+  </a>
 </p>
+<p align="center">Java, JavaScript, C, C++, Typescript, CSS, HTML</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center"><strong>Frontend (client side)</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=react,tailwind,figma&theme=dark">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,figma&theme=dark" alt="Frontend">
+  </a>
+</p>
+<p align="center">React, Tailwind CSS, Figma</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirayu2107&show_icons=true&locale=en&layout=compact" alt="chirayu2107" /></p>
+<p align="center"><strong>Backend (server side)</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=express,nodejs&theme=dark">
+    <img src="https://skillicons.dev/icons?i=express,nodejs&theme=dark" alt="Backend">
+  </a>
+</p>
+<p align="center">Express, Node.js</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirayu2107&show_icons=true&locale=en" alt="chirayu2107" /></p>
+<p align="center"><strong>Databases</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="Databases">
+  </a>
+</p>
+<p align="center">MongoDB, MySQL, Firestore</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirayu2107&" alt="chirayu2107" /></p>
+<p align="center"><strong>Tools</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=vscode,github,git&theme=dark">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git&theme=dark" alt="Tools">
+  </a>
+</p>
+<p align="center">VS Code, GitHub, Git</p>
+
+<p align="center"><strong>Deployment</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=vercel&theme=dark">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Deployment">
+  </a>
+</p>
+<p align="center">Vercel</p>
+
+<p align="center"><strong>AI/ML</strong></p>
+<p align="center">Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn</p>
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirayu2107&theme=aura_dark)
+
+<div display="flex">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chirayu2107&theme=aura_dark)
+
+
+<div>
+
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2053%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+🌆 Daytime                767 commits         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+🌃 Evening                1098 commits        ██████████░░░░░░░░░░░░░░░   40.86 % 
+🌙 Night                  636 commits         ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Tuesday                  351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Wednesday                349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Thursday                 242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Friday                   541 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Saturday                 531 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Sunday                   335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               17 hrs 4 mins       ███████████████████░░░░░░   74.29 % 
+HTML                     4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+SQL                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+
+🐱‍💻 Projects: 
+ei-common-authoring-platf14 hrs 26 mins      ████████████████░░░░░░░░░   62.82 % 
+ei-content               7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.52 % 
+ei-user-management-1     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+api-gateway-2            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+ei-iam                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+
+💻 Operating System: 
+Mac                      22 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               25 repos            ████████████████░░░░░░░░░   64.10 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+
+
+ Last Updated on 10/11/2024 18:41:32 UTC
+<!--END_SECTION:waka-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chirayu2107&theme=dark)](https://git.io/streak-stats)

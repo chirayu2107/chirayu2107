@@ -1,4 +1,4 @@
-<h2>Hey, I am Chirayu Maru, a Full-Stack Developer</h2>
+<h2>Hey, I am Chirayu Maru</h2>
 <p><em>Pursuing B.Tech - Computer Science @<a href="https://vit.ac.in/">VIT Vellore
 </em></p>
 

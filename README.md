@@ -1,6 +1,10 @@
 <h2>Hey, I am Chirayu Maru</h2>
-<p><em>Pursuing B.Tech - Computer Science @<a href="https://vit.ac.in/">VIT Vellore
-</em></p>
+<p><em>🏫 B.Tech - Computer Science @<a href="https://vit.ac.in/">VIT Vellore </em></p>
+<p><em>🧑‍💼 Analyst Intern @ HSBC – automating digital banking workflows </em></p>
+<p><em>⚙️ Former Web Dev Intern @ Gifting Memories – built a full-stack B2B platform  </em></p>
+<p><em>🤖 Actively exploring applied ML + real-world LLM use-cases  </em></p>
+<p><em>💡 Motto: <b>Build fast, learn faster. </b></em></p>
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=chirayumaru)](https://x.com/chirayumaru)
 [![Linkedin: chirayu](https://img.shields.io/badge/-chirayu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirayumaru/)](https://www.linkedin.com/in/chirayumaru/)
@@ -10,7 +14,7 @@
 
 <h1 align="center"> 🧑‍💻 About Me</h1>
  
- I'm looking for a **Junior Developer/Software Engineer Position** to get hands-on experience working in an agile team environment
+I'm a developer who believes in blending software engineering with intelligence — both human and artificial. Whether it's crafting scalable web platforms or exploring deep learning workflows, I love being at the intersection of **code, design, and innovation**.
 
 📫 Reach me at : **chirayumaru@gmail.com**
 
@@ -23,6 +27,14 @@
   </a>
 </p>
 <p align="center">Java, JavaScript, C, C++, Typescript, CSS, HTML</p>
+
+<p align="center"><strong>AI/ML</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=scikit-Learn, pandas, numpy, matplotlib, seaborn, openAI APIs&theme=dark">
+    <img src="https://skillicons.dev/icons?i=scikit-Learn, pandas, numpy, matplotlib, seaborn, openAI APIs&theme=dark" alt="AI">
+  </a>
+</p>
+<p align="center">Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, OpenAI APIs </p>
 
 <p align="center"><strong>Frontend (client side)</strong></p>
 <p align="center">
@@ -64,8 +76,6 @@
 </p>
 <p align="center">Vercel</p>
 
-<p align="center"><strong>AI/ML</strong></p>
-<p align="center">Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn</p>
 
 
 

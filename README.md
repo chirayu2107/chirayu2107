@@ -1,10 +1,10 @@
 <h2>Hey, I am Chirayu Maru</h2>
-<p><em>🏫 B.Tech - Computer Science @<a href="https://vit.ac.in/">VIT Vellore </em></p>
-<p><em>🧑‍💼 Analyst Intern @<a href="https://www.hsbc.com/"> HSBC </a> – automating digital banking workflows </em></p>
-<p><em>⚙️ Former Web Dev Intern @<a href="https://bharatgifting.com/">Gifting Memories</a> – built a full-stack B2B platform  </em></p>
-<p><em>🤖 Actively exploring applied ML + real-world LLM use-cases  </em></p>
-<p><em>🚀 Portfolio - <a href="https://chirayu-tau.vercel.app/"> Click here  </em></p>
-<p><em>💡 Motto: <b>Build fast, learn faster. </b></em></p>
+<p>🏫 <em>B.Tech - Computer Science @<a href="https://vit.ac.in/">VIT Vellore </em></p>
+<p>🧑‍💼 <em>Analyst Intern @<a href="https://www.hsbc.com/"> HSBC </a> – automating digital banking workflows </em></p>
+<p>⚙️ <em>Former Web Dev Intern @<a href="https://bharatgifting.com/">Gifting Memories</a> – built a full-stack B2B platform  </em></p>
+<p>🤖 <em>Actively exploring applied ML + real-world LLM use-cases  </em></p>
+<p>🚀 <em>Portfolio - <a href="https://chirayu-tau.vercel.app/"> Click here  </em></p>
+<p>💡 <em>Motto: <b>Build fast, learn faster. </b></em></p>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=chirayumaru)](https://x.com/chirayumaru)

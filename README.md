@@ -1,4 +1,6 @@
 <h2>Hey, I am Chirayu Maru</h2>
+
+<img src="http://res.cloudinary.com/dkoiyuyhj/image/upload/v1753209365/utphnkmlfbhgjpbmifyl.png" alt="Chirayu Maru" width="500" />
 <p>🏫 <em>B.Tech - Computer Science @<a href="https://vit.ac.in/">VIT Vellore </em></p>
 <p>🧑‍💼 <em>Analyst Intern @<a href="https://www.hsbc.com/"> HSBC </a> – automating digital banking workflows </em></p>
 <p>⚙️ <em>Former Web Dev Intern @<a href="https://bharatgifting.com/">Gifting Memories</a> – built a full-stack B2B platform  </em></p>

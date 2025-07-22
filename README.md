@@ -1,19 +1,12 @@
 <h2>Hey, I am Chirayu Maru</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
-  <div style="flex: 1; min-width: 300px;">
-    <p>🏫 <em>B.Tech - Computer Science @<a href="https://vit.ac.in/">VIT Vellore</a></em></p>
-    <p>🧑‍💼 <em>Analyst Intern @<a href="https://www.hsbc.com/"> HSBC </a> – automating digital banking workflows </em></p>
-    <p>⚙️ <em>Former Web Dev Intern @<a href="https://bharatgifting.com/">Gifting Memories</a> – built a full-stack B2B platform  </em></p>
-    <p>🤖 <em>Actively exploring applied ML + real-world LLM use-cases  </em></p>
-    <p>🚀 <em>Portfolio - <a href="https://chirayu-tau.vercel.app/"> Click here </a></em></p>
-    <p>💡 <em>Motto: <b>Build fast, learn faster.</b></em></p>
-  </div>
-
-  <div style="flex-shrink: 0;">
-    <img src="http://res.cloudinary.com/dkoiyuyhj/image/upload/v1753209813/o3atnpfsah4rds2c4khn.png" alt="Chirayu Maru" width="300" style="border-radius: 10px;" />
-  </div>
-</div>
+<img src="http://res.cloudinary.com/dkoiyuyhj/image/upload/v1753209813/o3atnpfsah4rds2c4khn.png" alt="Chirayu Maru" width="400" />
+<p>🏫 <em>B.Tech - Computer Science @<a href="https://vit.ac.in/">VIT Vellore </em></p>
+<p>🧑‍💼 <em>Analyst Intern @<a href="https://www.hsbc.com/"> HSBC </a> – automating digital banking workflows </em></p>
+<p>⚙️ <em>Former Web Dev Intern @<a href="https://bharatgifting.com/">Gifting Memories</a> – built a full-stack B2B platform  </em></p>
+<p>🤖 <em>Actively exploring applied ML + real-world LLM use-cases  </em></p>
+<p>🚀 <em>Portfolio - <a href="https://chirayu-tau.vercel.app/"> Click here  </em></p>
+<p>💡 <em>Motto: <b>Build fast, learn faster. </b></em></p>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=chirayumaru)](https://x.com/chirayumaru)
@@ -106,16 +99,16 @@ I'm a developer who believes in blending software engineering with intelligence 
 
 **I'm a Night 🦉** 
 
-```text
+text
 🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 🌆 Daytime                60 commits          ███████░░░░░░░░░░░░░░░░░░   28.54 % 
 🌃 Evening                108 commits         ██████████░░░░░░░░░░░░░░░   40.86 % 
-🌙 Night                  78 commits          ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-```
+🌙 Night                  78 commits          ██████░░░░░░░░░░░░░░░░░░░   23.67 %
+
 
 📊 **This Week I Spent My Time On** 
 
-```text
+text
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
@@ -133,8 +126,8 @@ api-gateway-2            19 mins             ░░░░░░░░░░░�
 ei-iam                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Mac                      22 hrs 58 mins      █████████████████████████   100.00 % 
-```
+Mac                      22 hrs 58 mins      █████████████████████████   100.00 %
+
 
 
 

@@ -3,7 +3,7 @@
 <!--<img src="http://res.cloudinary.com/dkoiyuyhj/image/upload/v1753209813/o3atnpfsah4rds2c4khn.png" alt="Chirayu Maru" width="400" />--->
 
 <p>🏫 <em>B.Tech - Computer Science @<a href="https://vit.ac.in/">VIT Vellore </em></p>
-<p>🧑‍💻 <em>SDE @<a href="https://www.lenskart.com/">Lenskart </em></p>
+<p>🧑‍💻 <em>SDE @<a href="https://www.lenskart.com/"> Lenskart </em></p>
 <p>🧑‍💼 <em>Former Analyst Intern @<a href="https://www.hsbc.com/"> HSBC </a> – automating digital banking workflows </em></p>
 <p>⚙️ <em>Former Web Dev Intern @<a href="https://bharatgifting.com/">Gifting Memories</a> – built a full-stack B2B platform  </em></p>
 <p>🤖 <em>Actively exploring applied ML + real-world LLM use-cases  </em></p>

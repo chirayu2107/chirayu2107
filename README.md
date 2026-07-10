@@ -13,7 +13,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=chirayumaru)](https://x.com/chirayumaru)
 [![Linkedin: chirayu](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirayumaru/)](https://www.linkedin.com/in/chirayumaru/)
-[![Portfolio: Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Chirayu&logoColor=white&link=https://www.figmafolio.com/u9SwrvZjTe)](https://chirayu-tau.vercel.app/)
+[![Portfolio: Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Chirayu&logoColor=white&link=https://www.figmafolio.com/u9SwrvZjTe)](https://chirayumaru.framer.website/)
 ![GitHub followers](https://img.shields.io/github/followers/chirayu2107?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=chirayu2107&color=brightgreen&base=5600)
 
